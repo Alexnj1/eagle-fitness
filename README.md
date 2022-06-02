@@ -24,7 +24,7 @@
 
 <div  align="center">
 
-<a  href="heroku app here">
+<a  href="[heroku app here](https://eagle-fitness.herokuapp.com/)">
 
 <img  src="./client/public/images/logo-full.png"  alt="logo">
 
@@ -150,7 +150,7 @@ App build in:
 
 ### Instalation
 
-Run this app directly from our [Heroku deployment](https://agile-tor-98669.herokuapp.com/)  
+Run this app directly from our [Heroku deployment](https://eagle-fitness.herokuapp.com/)  
 If you want your own:
 
  1. Fork
