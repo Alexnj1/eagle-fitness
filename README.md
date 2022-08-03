@@ -34,7 +34,7 @@
 
 <h3  align="center">
 
-Apollo Fitness
+Eagle Fitness
 </h3>
 
 <p  align="center">
